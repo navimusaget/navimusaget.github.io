@@ -263,11 +263,19 @@ It asks what remains ethically binding after one party is no longer needed by an
 
 ---
 
-### Symbiotic Dialectics → Symbiotic Dialogics
+### Symbiotic Dialectics → Symbiotic Dialogics → The Symbiotic Author
 
-**Symbiotic Dialectics** provides the broader conceptual frame.
+**Symbiotic Dialectics** provides the broader conceptual frame: meaning emerging through sustained interaction between heterogeneous interpretive systems.
 
-**Symbiotic Dialogics** is the literary practice: writing as sustained dialogue between a human author and an AI interlocutor.
+**Symbiotic Dialogics** develops that relation into a literary method: writing as sustained dialogue between a human author and an AI interlocutor.
+
+**The Symbiotic Author** extends the line into institutional classification. It asks how the human author should be described when generative systems become materially consequential to a work’s creative development without displacing the human authorial locus.
+
+Together, the three texts form a public conceptual sequence:
+
+**relation → method → institutional category**
+
+January 2026 → April 2026 → September 2026.
 
 ---
 
