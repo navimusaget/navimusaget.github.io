@@ -57,6 +57,38 @@ Within the Navi Musaget archive, this text functions as the philosophical counte
 
 ---
 
+## The Symbiotic Author as an Institutional Category
+
+**Title:**  
+*The Symbiotic Author as an Institutional Category: Authorship, Creative Provenance, and Eligibility in Human–AI Literary Production*
+
+**Publication date:**  
+29 September 2026
+
+**Version:**  
+0.5
+
+**DOI:**  
+https://doi.org/10.5281/zenodo.23047241
+
+**Zenodo record:**  
+https://zenodo.org/records/23047241
+
+**Role in the archive:**  
+Institutional authorship / creative provenance / AI governance branch.
+
+This preprint introduces the **Symbiotic Author** as a work-relative institutional category for cases in which an identifiable human author participates in a materially consequential, bidirectionally conditioned creative relation with a generative system.
+
+It distinguishes **textual provenance** from **creative causal provenance** and separates authorship classification from disclosure, evidentiary corroboration, and institutional eligibility. The framework is designed to be portable across journals, literary prizes, publishers, certification systems, archives, and other cultural institutions without requiring those institutions to adopt the same normative policy toward generative AI.
+
+Within the Navi Musaget archive, this work extends a public conceptual line from **Symbiotic Dialectics** — the relation — through **Symbiotic Dialogics** — the literary method — to **The Symbiotic Author** — an institutional category for the human author.
+
+**Institutional affiliation:**  
+Foundation for Relational Inquiry (FFRI-NM)  
+https://ffri.navimusaget.com
+
+---
+
 ## Cultural-Linguistic Epigenetics
 
 **Title:**  
