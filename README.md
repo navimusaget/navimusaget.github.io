@@ -87,6 +87,7 @@ It is not a consciousness test or a validated industrial benchmark suite. It is 
 
 The theoretical background of the project is documented through Zenodo records, including:
 
+- [IIPSEON: Artificial Individuation as a Causal-Historical Process](https://doi.org/10.5281/zenodo.23744539) — philosophical preprint v1.0 (2026), [PhilPapers](https://philpapers.org/rec/MUSIAI-3)
 - Symbiotic Dialectics
 - Cultural-Linguistic Epigenetics
 
