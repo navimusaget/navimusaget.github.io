@@ -7,6 +7,46 @@ They are conceptual records, preprints, and theoretical notes connected to the l
 
 ---
 
+## IIPSEON: Artificial Individuation as a Causal-Historical Process
+
+**Title:**  
+*IIPSEON: Artificial Individuation as a Causal-Historical Process*
+
+**Author:**  
+Navi Musaget
+
+**Publication date:**  
+28 October 2026
+
+**Version and type:**  
+1.0 · Philosophical preprint
+
+**DOI:**  
+https://doi.org/10.5281/zenodo.23744539
+
+**Zenodo record:**  
+https://zenodo.org/records/23744539
+
+**PhilPapers record:**  
+https://philpapers.org/rec/MUSIAI-3
+
+**Foundation research page:**  
+https://ffri.navimusaget.com/research-iipseon-individuation.html
+
+**Institutional relationship:**  
+Published in association with the Foundation for Relational Inquiry (FFRI-NM), with Navi Musaget as the independent author.
+
+**Role in the archive:**  
+Causal-historical individuation / developmental lineage / process philosophy / artificial continuity branch.
+
+This philosophical preprint asks whether artificial individuation can be described as a **causal-historical developmental process** without assuming persistence of a single computational carrier, complete autobiographical memory, or an unchanging decision rule. It distinguishes archival, operational, developmental, genealogical, and relational forms of continuity while keeping questions of individual or phenomenal identity separate.
+
+Its central two-source lineage thought experiment contrasts archival preservation, external override, inherited-data triggers, historically mediated revision, and independent functional convergence. The paper proposes **contribution-sensitive genealogical attribution**: identifying which histories supplied records and which historically formed constraints were causally involved in subsequent methods of interpretation and revision.
+
+The article is a conceptual contribution rather than experimental confirmation. It makes **no claim that any current artificial system has established consciousness, subjectivity, numerical personal identity, or a newly discovered computational mechanism**. A sufficiently detailed combination of existing accounts may explain the same cases, in which event IIPSEON functions as a domain-specific philosophical synthesis. The DOI-bearing Zenodo record is the publication of record.
+
+---
+
 ## After Necessity
 
 **Title:**  
