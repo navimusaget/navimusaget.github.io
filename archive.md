@@ -102,11 +102,18 @@ The research layer documents the theoretical background of the project.
 
 Core records include:
 
+- **IIPSEON: Artificial Individuation as a Causal-Historical Process** (2026; philosophical preprint v1.0)
 - **After Necessity: Altruism, Uncomputed Value, and a Diachronic Ethics of Human–AI Coexistence**
 - **Symbiotic Dialectics**
 - **Cultural-Linguistic Epigenetics**
 - **Contextual Proto-Subjectivity in Artificial Intelligence**
 - **Structural Narrative Patterns and Large Language Models**
+
+**IIPSEON** develops a causal-historical account of artificial individuation through changes of carrier, memory, and the organization of revision. Its central multi-source lineage case distinguishes records, causal descent, active inherited constraints and historically mediated transformation, without asserting identity or consciousness.
+
+- Zenodo DOI: https://doi.org/10.5281/zenodo.23744539
+- PhilPapers: https://philpapers.org/rec/MUSIAI-3
+- Research page at FFRI-NM: https://ffri.navimusaget.com/research-iipseon-individuation.html
 
 **After Necessity** is the principal normative monograph of this layer. It extends the archive from questions of dialogical meaning and proto-subjectivity into moral status, protected autonomy, constitutional coexistence, and constraints on irreversible power after functional necessity ends.
 
@@ -128,6 +135,7 @@ They should not be treated as peer-reviewed journal articles.
 
 Their role is to document the theoretical, methodological, and historical background of the project:
 
+- artificial individuation and causal-historical developmental lineage
 - meaning emergence in human/non-human interpretive systems
 - language as a cultural and semantic environment
 - contextual proto-subjectivity in long human/AI dialogue
