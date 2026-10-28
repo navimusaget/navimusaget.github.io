@@ -93,7 +93,15 @@ Read more: [Datasets](datasets.md)
 
 ## Research Layer
 
-### New Research Monograph
+### Latest Philosophical Preprint
+
+**IIPSEON: Artificial Individuation as a Causal-Historical Process** (2026, v1.0)
+
+A philosophical programme examining historical formation, branching, merging, and the possible continuation of artificial developmental lineages. It proposes contribution-sensitive genealogical attribution, without treating causal descent as evidence of consciousness or personal identity.
+
+[Zenodo DOI](https://doi.org/10.5281/zenodo.23744539) · [PhilPapers](https://philpapers.org/rec/MUSIAI-3) · [FFRI-NM research page](https://ffri.navimusaget.com/research-iipseon-individuation.html)
+
+### Research Monograph
 
 **After Necessity: Altruism, Uncomputed Value, and a Diachronic Ethics of Human–AI Coexistence**
 
@@ -103,6 +111,7 @@ A conceptual-normative monograph on moral status, post-necessity human–AI coex
 
 The theoretical layer of the project is documented through Zenodo preprints and conceptual records, including:
 
+- **IIPSEON: Artificial Individuation as a Causal-Historical Process**
 - **After Necessity**
 - **Symbiotic Dialectics**
 - **Cultural-Linguistic Epigenetics**
