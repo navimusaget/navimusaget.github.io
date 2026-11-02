@@ -7,6 +7,18 @@ They are presented as branches of a developing literary method.
 
 ---
 
+## External Publication
+
+### [PROBLEM 51 — *From Mind and Machine*, Issue One](problem-51-from-mind-and-machine.html)
+
+*PROBLEM 51* was published as the **feature story** in Issue One of *From Mind and Machine*, an independent magazine focused on creative work at the boundary of human authorship and artificial intelligence.
+
+The issue also presents the story's creative process through **Symbiotic Authorship** and **Symbiotic Dialectics**.
+
+[Publication record and issue link](problem-51-from-mind-and-machine.html)
+
+---
+
 ## Start Here
 
 ### Era Imago
