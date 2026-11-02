@@ -12,6 +12,16 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 
 ---
 
+## Publication News
+
+**PROBLEM 51** by **Navi Musaget** appears as the **feature story** in Issue One of *From Mind and Machine*, an independent magazine exploring creative work at the boundary between human authorship and artificial intelligence.
+
+The issue also presents the story's creative process through **Symbiotic Authorship** and **Symbiotic Dialectics**.
+
+[Publication record](problem-51-from-mind-and-machine.html) · [Read Issue One](https://ashadowfromthetomb.com/from-mind-and-machine/issue-1/magazine/)
+
+---
+
 ## Award News
 
 <img src="ngiba-winner-2026.png" alt="Winner, 2026 Next Generation Indie Book Awards" width="110">
