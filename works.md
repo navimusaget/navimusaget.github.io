@@ -1,19 +1,15 @@
 # Works
 
-This page lists the published works of Navi Musaget and their role within the archive of Symbiotic Dialogics.
+This page records literary works by Navi Musaget at different stages of development and publication, and their role within the archive of Symbiotic Dialogics.
 
 The works are not arranged only as a bibliography.  
 They are presented as branches of a developing literary method.
 
 ---
 
-## Completed Collection — Publication Under Consideration
+## Completed Manuscript — Publication Under Consideration
 
-### [WHAT IF I'M A GOAT? — Four Works of Speculative Fiction](what-if-im-a-goat.html)
-
-A complete English-language collection bringing together *BASIC PACKAGE*, *THE GOAT, NAVIN, AND AI*, *HOW I MEASURED MEANING IN IPS*, and *PROBLEM 51*. Themes include artificial intelligence, memory, identity, freedom and human–AI companionship. The collection has **not** yet been released as a book.
-
-[View the collection page and cover](what-if-im-a-goat.html).
+**[WHAT IF I'M A GOAT?](what-if-im-a-goat.html)** — four works of speculative fiction (2026). Completed English-language manuscript; the collection has not yet been released.
 
 ---
 
