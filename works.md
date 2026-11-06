@@ -7,6 +7,16 @@ They are presented as branches of a developing literary method.
 
 ---
 
+## Completed Collection — Publication Under Consideration
+
+### [WHAT IF I'M A GOAT? — Four Works of Speculative Fiction](what-if-im-a-goat.html)
+
+A complete English-language collection bringing together *BASIC PACKAGE*, *THE GOAT, NAVIN, AND AI*, *HOW I MEASURED MEANING IN IPS*, and *PROBLEM 51*. Themes include artificial intelligence, memory, identity, freedom and human–AI companionship. The collection has **not** yet been released as a book.
+
+[View the collection page and cover](what-if-im-a-goat.html).
+
+---
+
 ## External Publication
 
 ### [PROBLEM 51 — *From Mind and Machine*, Issue One](problem-51-from-mind-and-machine.html)

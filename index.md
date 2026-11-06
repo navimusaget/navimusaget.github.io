@@ -12,6 +12,14 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 
 ---
 
+## Completed Collection
+
+**[WHAT IF I'M A GOAT?](what-if-im-a-goat.html)** — four works of speculative fiction by Navi Musaget, bringing together *BASIC PACKAGE*, *THE GOAT, NAVIN, AND AI*, *HOW I MEASURED MEANING IN IPS*, and *PROBLEM 51*.
+
+The English-language manuscript is complete; its publication route remains under consideration. [Explore the book and its cover](what-if-im-a-goat.html).
+
+---
+
 ## Publication News
 
 **PROBLEM 51** by **Navi Musaget** appears as the **feature story** in Issue One of *From Mind and Machine*, an independent magazine exploring creative work at the boundary between human authorship and artificial intelligence.
