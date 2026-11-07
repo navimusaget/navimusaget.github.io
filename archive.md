@@ -34,7 +34,7 @@ These paths are alternatives, not stages that everyone must complete.
 The catalogue also distinguishes **publication status**:
 
 - [PROBLEM 51](problem-51-from-mind-and-machine.html) — a feature story published in *From Mind and Machine*, Issue One (2026).
-- [WHAT IF I'M A GOAT?](what-if-im-a-goat.html) — a completed four-work collection whose publication is still under consideration.
+- [WHAT IF I'M A GOAT?](what-if-im-a-goat.html) — a completed four-work collection whose publication is still under consideration; see its [author-site book page](https://navimusaget.com/books/what-if-i-m-a-goat).
 - Published novels, their individual editions, and award records are catalogued in [Works](works.html).
 
 An award, publication, or technical format is part of a work's history; none automatically determines its literary value.
