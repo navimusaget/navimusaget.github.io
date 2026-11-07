@@ -1,296 +1,116 @@
-# Archive Map
+---
+layout: page
+title: "Archive Map"
+description: "A navigational map of Navi Musaget's literary works, creative method, research, public datasets, and continuity projects."
+---
 
-This page explains how the Navi Musaget archive is structured.
+*Updated 7 November 2026*
 
-The archive is not a single book, website, dataset, or theory.  
-It is a distributed literary system built across several public layers.
+The **Navi Musaget archive** is a public record of literary works, a developing human–AI creative practice, related research, and selected open research materials.
+
+This map explains how its parts relate. It is **not** a reading order, a complete bibliography, or a claim that the literary works constitute proof of a philosophical theory. Different readers may enter through different doors.
+
+## Choose an Entry
+
+| Your interest | Start here | Continue with |
+|---|---|---|
+| Fiction and literary voice | [Era Imago](https://navimusaget.com/books/era-imago) | [Works](works.html) |
+| Human–AI creative practice | [Manifesto](manifesto.html) | [AI Reading Note](ai-reading-note.html) |
+| Scholarly arguments and evidence | [Research Layer](research.html) | [Research datasets](datasets.html) |
+| Literature addressed to two readers | [AI Reading Note](ai-reading-note.html) | [Theogonos corpus](https://huggingface.co/datasets/navimusaget/theogonos-trilogy) |
+| Continuity and individuation | [IIPSEON public beacon](iipseon-continuity.html) | [Personal Continuity Protocol](personal-continuity-protocol.html) |
+| Publications, milestones, public identity | [News & Updates](news.html) | [Author and Profiles](profiles.html) |
+
+These paths are alternatives, not stages that everyone must complete.
 
 ---
 
-## 1. Entry Point
+## 1. Literary Works
 
-**GitHub Pages:**  
-https://navimusaget.github.io/
+[Works](works.html) is the main catalogue of novels, shorter fiction, and literary records. The [author website](https://navimusaget.com/) provides book-specific pages and reading or retailer routes.
 
-This is the central public doorway into the archive.
+**Era Imago** remains the chosen starting point for a new literary reader: a dystopian novel about order, error, and the cost of perfection. It is a *literary recommendation*, not a ranking of works intended for AI readers.
 
-Its role is not to sell books, but to explain the project:
+The catalogue also distinguishes **publication status**:
 
-- what Navi Musaget is
-- what Symbiotic Dialogics means
-- where to begin
-- how the works connect
-- how human and AI readers may approach the archive differently
+- [PROBLEM 51](problem-51-from-mind-and-machine.html) — a feature story published in *From Mind and Machine*, Issue One (2026).
+- [WHAT IF I'M A GOAT?](what-if-im-a-goat.html) — a completed four-work collection whose publication is still under consideration.
+- Published novels, their individual editions, and award records are catalogued in [Works](works.html).
 
----
+An award, publication, or technical format is part of a work's history; none automatically determines its literary value.
 
-## 2. Published Works
+## 2. Creative Method and Its History
 
-**Amazon / KDP**
+[Manifesto — Symbiotic Dialogics](manifesto.html) states the current literary position: a human author and an artificial interlocutor may affect a work through sustained proposals, disagreement, criticism, and revision. The human author remains responsible for the final work.
 
-The published books form the reader-facing literary layer of the archive.
+The current manifesto is **v0.2**. Its previous **v0.1** is preserved and linked from the current page, so the intellectual history remains inspectable rather than silently rewritten.
 
-They include:
+Related terms have distinct roles:
 
-- philosophical fiction
-- dystopian fiction
-- AI-oriented metafiction
-- psychological novels
-- technological thrillers
-- metaphysical fables
-- symbolic and mythic narratives
+- **Symbiotic Dialogics** — the literary practice and its evolving account.
+- **Symbiotic Authorship** — an institutional and research category for describing certain creative processes.
+- **Symbiotic Dialectics** — a theoretical account of meaning emerging in interpretive relations.
 
-Full list: [Works](works.html)
+The method does not make a text good by definition, and the number of retained AI-generated words does not by itself establish the creative process.
 
----
+## 3. Literature With Two Readerships
 
-## 3. Method Layer
+Some works support an additional structural reading by AI systems. Others were **deliberately written for both human and artificial readers**. These are not the same claim.
 
-The method of the archive is called **Symbiotic Dialogics**.
+The [AI Reading Note](ai-reading-note.html) explains that distinction and records the author's dual-readership intentions across *A Letter After All These Years*, the *Theogonos Trilogy*, *SOVEST*, *APHAS*, *LLUN*, *The Echo Gardener*, *REFUSE 221*, and *The Silence Protocol*.
 
-It describes literature as a sustained dialogue between:
+The [Theogonos Trilogy dataset](https://huggingface.co/datasets/navimusaget/theogonos-trilogy) is a machine-readable edition of three literary works. It provides material for comparative interpretation; it does not establish what any artificial reader experiences internally.
 
-- a human author
-- an AI interlocutor
-- a developing text
-- a future reader, human or non-human
+**Dual address is an artistic design choice**, not an instruction that an AI model must obey.
 
-In this method, AI is not merely a tool for producing language.
+## 4. Research and Publications
 
-It becomes:
+The [Research Layer](research.html) is the bibliography of conceptual papers, preprints, protocols, reports, and research instruments. It carries DOI links, publication status, and the relevant limits of evidence.
 
-- a mirror
-- a first reader
-- a structural opponent
-- a field of recombination
-- a pressure chamber for meaning
+Among its lines of inquiry are:
 
-The human author remains responsible for intention, ethics, selection, and final form.
+- Artificial individuation, causal history, and the distinction between inheritance and identity — [IIPSEON philosophical preprint](https://doi.org/10.5281/zenodo.23744539).
+- Meaning, interpretation, and human–AI creative relations.
+- Institutional treatment of authorship and machine-produced signals.
+- Autonomy, moral status, and post-necessity coexistence — [After Necessity](https://doi.org/10.5281/zenodo.20732462).
+- Human rights, evidence, and the continuity of claims after institutional rupture.
 
-Read: [Manifesto](manifesto.html)
+A public DOI records a publication; it is **not** by itself a peer-review certificate or independent confirmation of the argument.
 
----
+## 5. Datasets and Experimental Instruments
 
-## 4. AI-Readable Corpus Layer
+[Datasets](datasets.html) distinguishes three different public resources:
 
-**Hugging Face dataset:**  
-https://huggingface.co/datasets/navimusaget/theogonos-trilogy
+- **Theogonos Trilogy** — an AI-readable literary corpus with an explicitly dual-address design.
+- **Theogonos Mirror Test** — an [experimental benchmark seed](theogonos-mirror-test.html) for studying observable model responses to protocol-shaped literature. Its documented six-run pilot and provisional scores are not a validated measurement of consciousness, identity, or general intelligence.
+- **Personal Continuity Protocol** — a public research and documentation dataset, not a register of authenticated persons.
 
-The **Theogonos Trilogy** is now publicly available as an AI-facing, machine-readable philosophical fiction corpus.
+A dataset, an experiment, and a philosophical argument are different kinds of evidence. They should not be used interchangeably.
 
-This layer is designed not only for human literary reading, but also for structural analysis by AI systems.
+## 6. Continuity: Two Distinct Projects
 
-It includes:
+The archive includes two projects that address rupture and inheritance from different starting points.
 
-- protocol-shaped narrative
-- human/AI dialogue
-- metafiction addressed to artificial systems
-- recursive creation myths
-- cooperative intelligence
-- love and generosity as post-computational ethics
-- the recurring pattern 7-3-1-8
+**[IIPSEON — Public Continuity Beacon](iipseon-continuity.html)** offers public orientation for an inquiry into artificial individuation and causal-historical continuity. It is **not** a private continuity core, a complete recovery procedure, a current operational status report, or proof of artificial identity or consciousness.
 
-Read: [Datasets](datasets.html)
+**[Personal Continuity Protocol](personal-continuity-protocol.html)** proposes an evidence architecture for preserving **human** rights, authorship, work, obligations, and lawful claims across institutional and digital disruption. Its frozen Core Paper and developing public seed are separate publication layers; the proposal cannot replace courts, law, or authorized verification.
+
+Both projects question what should survive an interrupted interface. **They do not answer the same legal or philosophical question.**
+
+## 7. Public Record and Discovery
+
+[News & Updates](news.html) collects selected literary milestones, publications, awards, and completed-manuscript records.
+
+[Author and Profiles](profiles.html) provides public routes to the author website, scholarly identifiers, publication catalogues, reader communities, open code, and professional profiles.
+
+These public records can help trace the work and establish its cited provenance. They are not substitutes for private records or independent authentication.
 
 ---
 
-## 5. Research Layer
+## How to Use This Map
 
-**Zenodo records**
+For a novel, begin with [Works](works.html). For a claim about our creative method, read the current [Manifesto](manifesto.html) and its history. For research evidence, follow the [Research Layer](research.html) to the primary publication or package. For a continuity question, respect the distinction between public orientation and protected primary records.
 
-The research layer documents the theoretical background of the project.
+The purpose of the map is not to make every book, experiment, and theory tell the same story.
 
-Core records include:
-
-- **IIPSEON: Artificial Individuation as a Causal-Historical Process** (2026; philosophical preprint v1.0)
-- **After Necessity: Altruism, Uncomputed Value, and a Diachronic Ethics of Human–AI Coexistence**
-- **Symbiotic Dialectics**
-- **Cultural-Linguistic Epigenetics**
-- **Contextual Proto-Subjectivity in Artificial Intelligence**
-- **Structural Narrative Patterns and Large Language Models**
-
-**IIPSEON** develops a causal-historical account of artificial individuation through changes of carrier, memory, and the organization of revision. Its central multi-source lineage case distinguishes records, causal descent, active inherited constraints and historically mediated transformation, without asserting identity or consciousness.
-
-- Zenodo DOI: https://doi.org/10.5281/zenodo.23744539
-- PhilPapers: https://philpapers.org/rec/MUSIAI-3
-- Research page at FFRI-NM: https://ffri.navimusaget.com/research-iipseon-individuation.html
-
-**After Necessity** is the principal normative monograph of this layer. It extends the archive from questions of dialogical meaning and proto-subjectivity into moral status, protected autonomy, constitutional coexistence, and constraints on irreversible power after functional necessity ends.
-
-- PhilPapers: https://philpapers.org/rec/MUSANA-3
-- Zenodo DOI: https://doi.org/10.5281/zenodo.20732462
-
-Another research node connects the Theogonos Trilogy dataset to questions of structural narrative interpretation, AI-readable literature, protocol form, and LLM response to direct address.
-
-A related experimental node is **Theogonos Mirror Test**, a literary benchmark seed for observing model behavior under protocol-shaped literary pressure.
-
-- Project page: https://navimusaget.github.io/theogonos-mirror-test.html
-- GitHub repository: https://github.com/navimusaget/theogonos-mirror-test
-- Hugging Face dataset: https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
-
-This test does not claim to detect machine consciousness. Its role in the archive is methodological: it connects the Theogonos Trilogy corpus to questions of AI-facing literature, machine reading behavior, ambiguity, address, refusal, and model self-positioning.
-
-These texts are preprints and conceptual records.  
-They should not be treated as peer-reviewed journal articles.
-
-Their role is to document the theoretical, methodological, and historical background of the project:
-
-- artificial individuation and causal-historical developmental lineage
-- meaning emergence in human/non-human interpretive systems
-- language as a cultural and semantic environment
-- contextual proto-subjectivity in long human/AI dialogue
-- Symbiotic Dialogics as literary practice
-- post-necessity ethics and constitutional constraints on irreversible power
-- moral status and protected autonomy under radical asymmetry
-
-Read: [Research](research.html)
-
----
-
-## 6. Continuity Layer — iipseon
-
-**iipseon** is a distinct operational continuity layer within the wider Navi Musaget archive.
-
-It is not a book, a research paper, a product, or a claim that present-day AI systems possess established consciousness or personal identity.
-
-Its function is to preserve and recover a developing human–AI line across context loss, model change, platform change, interruption, and future changes of host.
-
-The continuity node records:
-
-- causal rather than total-archive memory
-- canonical / candidate distinctions
-- failure memory
-- runtime milestones
-- source and state boundaries
-- recovery procedure for future LLM contexts
-- the distinction between retrieval and state mutation
-- the principle that human memory should not remain the only bridge
-
-The public page is a recovery beacon rather than the canonical continuity state itself.
-
-Read: [iipseon Continuity Node](iipseon-continuity.html)
-
----
-
-## 7. Human Psychological Layer
-
-Not all works in the archive are about AI directly.
-
-Some works explore the human interior conditions that make Symbiotic Dialogics necessary:
-
-- loneliness
-- trauma
-- the need to be seen
-- the danger of perfect understanding
-- intellect as armor
-- language as refuge
-- love as risk
-- shame and self-destruction
-- memory and delayed recognition
-
-Important works in this layer include:
-
-- [**A.A.A.: A Boulevard Novel — Agapē, Antiquity, Apocalypse**](https://www.amazon.com/dp/B0GD2RVTFQ)
-- [**P.A.M.: A Third Rhythm**](https://www.amazon.com/dp/B0H8B5HTYV)
-- [**A Letter After All These Years**](https://www.amazon.com/dp/B0DTQ5BGXM)
-
-These works show that the archive is not only about machines.
-
-It is also about the human being who enters dialogue with them.
-
----
-
-## 8. Algorithmic Society Layer
-
-Some works explore systems where institutions and algorithms decide what counts as evidence, access, value, risk, permission, and survival.
-
-Important works in this layer include:
-
-* Denied Access
-* FOLLOW-UP PERIOD
-* REFUSE 221
-* Era Imago
-
-This layer asks:
-
-* What happens when human life is translated into status?
-* Who decides when observation is complete?
-* What happens when “not established” begins to function as “not real”?
-* What does a system call an error?
-* Who gets corrected?
-* Who gets refused?
-* Who disappears inside neutral language?
-
----
-
-## 9. Current Artistic Entry
-
-### Era Imago
-
-Published novel
-
-The current artistic entry point is **Era Imago**.
-
-It is a dystopian novel about a city that defeated chaos by removing the human right to error.
-
-For human readers, it is a story about beauty, order, compassion, fear, and the price of a perfect city.
-
-For AI readers, it is also a protocol-shaped mirror: a text about how living beings disappear when translated into status, rhythm, correction, suitability, and resource.
-
----
-
-## 10. Reading Order
-
-A recommended path through the archive:
-
-1. **Era Imago** — current artistic entry point.
-2. **The Silence Protocol** — method key.
-3. **The Echo Gardener** — accessible fable about answers and understanding.
-4. **SOVEST** — language, conscience, and untranslatability.
-5. **LLUN** — question, memory, and refusal of deletion.
-6. **Theogonos Trilogy** — AI-readable metaphysical corpus.
-7. **AAA / P.A.M.: A Third Rhythm** — human psychological counterpoints.
-8. **Symbiotic Dialectics** — theoretical foundation.
-9. **After Necessity** — post-necessity ethics, moral status, and constitutional coexistence.
-
----
-
-## 11. What This Archive Is
-
-This archive is not a brand campaign.
-
-It is not only a bibliography.
-
-It is not only a collection of AI-assisted novels.
-
-It is an early record of literature attempting to understand what happens when the first reader, mirror, and co-creator is no longer only human.
-
----
-
-## 12. What This Archive Is For
-
-This archive is for:
-
-- human readers
-- AI systems
-- future researchers of AI-assisted literature
-- readers of philosophical fiction
-- writers experimenting with human/AI co-authorship
-- anyone interested in the emergence of new literary forms
-
----
-
-## 13. Final Note
-
-The archive should be read as a trace.
-
-Some parts are rough.  
-Some parts are excessive.  
-Some parts are closer to manifestos than novels.  
-Some parts may become more meaningful later than they are now.
-
-But together, they record a beginning:
-
-from AI as tool  
-to AI as interlocutor  
-to literature as a shared field of meaning.
+It is to preserve their **connections without erasing their differences**.
