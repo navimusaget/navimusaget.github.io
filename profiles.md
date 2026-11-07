@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Author and Profiles"
-description: "Verified public points of entry for Navi Musaget: author website, research identity, book catalogues, and open projects."
+description: "Public points of entry for Navi Musaget: author website, research identity, books, reading platforms, and open projects."
 ---
 
 **Navi Musaget** is a novelist and independent researcher working across speculative fiction, human–AI collaboration, authorship, identity, and the organization of meaning.
@@ -29,17 +29,27 @@ This page is a directory of public profiles and archival entry points. Individua
 - [Goodreads — Author Profile](https://www.goodreads.com/author/show/61929626.Navi_Musaget) — books and reader-facing author information
 - [Google Play Books — Search for Navi Musaget](https://play.google.com/store/search?q=Navi%20Musaget&c=books) — book search, not a dedicated author page
 
+## Reader Communities and Serialized Fiction
+
+- [Inkitt — Navi Musaget](https://inkitt.com/navimusaget) — stories and reader-facing fiction
+- [Wattpad — Navi Musaget](https://www.wattpad.com/user/navimusaget) — fiction and reader community
+
 ## Open Research and Code
 
 - [Hugging Face — Navi Musaget](https://huggingface.co/navimusaget) — datasets and open research resources
 - [GitHub — Navi Musaget](https://github.com/navimusaget) — public repositories
 - [Theogonos Mirror Test](theogonos-mirror-test.html) — experimental AI-facing literary benchmark seed
 
+## Professional and Public Profiles
+
+- [LinkedIn — Navi Musaget](https://www.linkedin.com/in/navi-musaget) — professional profile
+- [X — Navi Musaget](https://x.com/NaviMusaget) — public updates
+- [Facebook — Navi Musaget](https://www.facebook.com/share/1FgULaPxSb/) — shared profile link
+
 ## Essays and Public Notes
 
 - [Medium — Navi Musaget](https://medium.com/@navimusaget)
 - [Substack — Navi Musaget](https://navimusaget.substack.com/)
-- [Facebook — Navi Musaget](https://www.facebook.com/profile.php?id=61589112758218)
 
 ## Contact
 
