@@ -221,6 +221,16 @@ The dataset is designed for studying:
 
 ---
 
+## Author Catalogues
+
+For publisher and retailer listings across multiple titles, see the author-level catalogues below. Individual book titles above link first to their dedicated pages on the [Navi Musaget author website](https://navimusaget.com/).
+
+- [Amazon — Author Store](https://www.amazon.com/stores/Navi-Musaget/author/B0G7H1LW2Y)
+- [Books2Read — Author Page](https://books2read.com/ap/xd9JEv/Navimusaget)
+- [Google Play Books — Search for Navi Musaget](https://play.google.com/store/search?q=Navi%20Musaget&c=books) *(search results, not a dedicated author profile)*
+
+---
+
 ## Note
 
 This archive is not a linear bibliography.
