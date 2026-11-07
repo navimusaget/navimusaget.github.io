@@ -11,3 +11,7 @@ header_pages:
   - archive.md
   - iipseon-continuity.md
   - profiles.md
+
+# Keep GitHub repository guidance out of the public Jekyll build.
+exclude:
+  - README.md
