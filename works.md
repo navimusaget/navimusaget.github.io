@@ -13,7 +13,7 @@ They are presented as branches of a developing literary method.
 
 ## Completed Manuscript — Publication Under Consideration
 
-**[WHAT IF I'M A GOAT?](what-if-im-a-goat.html)** — four works of speculative fiction (2026). Completed English-language manuscript; the collection has not yet been released.
+**[WHAT IF I'M A GOAT?](what-if-im-a-goat.html)** — four works of speculative fiction (2026). Completed English-language manuscript; the collection has not yet been released. [Author-site book page](https://navimusaget.com/books/what-if-i-m-a-goat).
 
 ---
 
