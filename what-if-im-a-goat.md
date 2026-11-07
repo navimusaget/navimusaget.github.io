@@ -8,6 +8,8 @@ description: "Archival record of a completed speculative-fiction collection by N
 
 **Status:** Completed English-language manuscript. Publication of the collection is under consideration.
 
+**Author-site page:** [WHAT IF I'M A GOAT? — book page](https://navimusaget.com/books/what-if-i-m-a-goat). This listing records the completed collection; it does not imply that the volume is already published.
+
 A collection of four works of speculative fiction exploring artificial intelligence, human–AI relationships, memory, identity, and the boundaries of technological design.
 
 ## Contents
