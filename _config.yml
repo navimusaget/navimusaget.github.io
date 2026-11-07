@@ -1,3 +1,13 @@
 title: Navi Musaget
 description: Entry Point to Symbiotic Dialogics — a human/AI literary archive.
 theme: minima
+
+# Deliberately fixed archive navigation: news and individual records are not menu items.
+header_pages:
+  - works.md
+  - research.md
+  - manifesto.md
+  - news.md
+  - archive.md
+  - iipseon-continuity.md
+  - profiles.md
