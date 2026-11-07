@@ -1,165 +1,50 @@
-# Author and Profiles
-
-This page collects the public profiles, repositories, research records, and contact links connected to the Navi Musaget archive.
-
+---
+layout: page
+title: "Author and Profiles"
+description: "Verified public points of entry for Navi Musaget: author website, research identity, book catalogues, and open projects."
 ---
 
-## Central Entry Point
+**Navi Musaget** is a novelist and independent researcher working across speculative fiction, human–AI collaboration, authorship, identity, and the organization of meaning.
 
-**Navi Musaget — Entry Point to Symbiotic Dialogics**  
-https://navimusaget.github.io/
+This page is a directory of public profiles and archival entry points. Individual books and publications are listed in [Works](works.html) and [Research Layer](research.html).
 
-This is the central public doorway into the archive.
+## Primary Sites
 
----
+- [Navi Musaget — Official Author Website](https://navimusaget.com/) — books, author information, and retailer links
+- [Navi Musaget — Literary and Research Archive](https://navimusaget.github.io/) — public records, methodology, and project history
 
-## Author / Research Identity
+## Research Identity and Publications
 
-### ORCID
+- [ORCID — Navi Musaget](https://orcid.org/0009-0004-9820-3056) — persistent researcher identifier and bibliography
+- [Google Scholar — Navi Musaget](https://scholar.google.com/citations?user=FrWzs34AAAAJ) — scholarly profile
+- [PhilPeople — Navi Musaget](https://philpeople.org/profiles/navi-musaget) — philosophy profile
+- [Research Layer](research.html) — indexed preprints and reports with DOI, Zenodo, and PhilPapers links
+- [Zenodo — Search for Navi Musaget](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Musaget%2C%20Navi%22&l=list&p=1&s=10&sort=bestmatch) — publication search, not a personal profile
 
-https://orcid.org/0009-0004-9820-3056
+## Books and Reader Catalogues
 
-The ORCID record connects the author identity with research records, datasets, and archival works.
+- [Works](works.html) — literary bibliography with links to individual books on the author website
+- [Amazon — Author Store](https://www.amazon.com/stores/Navi-Musaget/author/B0G7H1LW2Y) — retailer catalogue
+- [Books2Read — Author Page](https://books2read.com/ap/xd9JEv/Navimusaget) — multi-retailer catalogue
+- [Goodreads — Author Profile](https://www.goodreads.com/author/show/61929626.Navi_Musaget) — books and reader-facing author information
+- [Google Play Books — Search for Navi Musaget](https://play.google.com/store/search?q=Navi%20Musaget&c=books) — book search, not a dedicated author page
 
----
+## Open Research and Code
 
-### Google Scholar
+- [Hugging Face — Navi Musaget](https://huggingface.co/navimusaget) — datasets and open research resources
+- [GitHub — Navi Musaget](https://github.com/navimusaget) — public repositories
+- [Theogonos Mirror Test](theogonos-mirror-test.html) — experimental AI-facing literary benchmark seed
 
-https://scholar.google.com/citations?user=FrWzs34AAAAJ
+## Essays and Public Notes
 
-Google Scholar profile for research publications, citation tracking, and future h-index and i10-index records connected to Navi Musaget.
-
----
-
-### PhilPeople
-
-https://philpeople.org/profiles/navi-musaget
-
-Philosophy and research profile connected to philosophy of artificial intelligence, philosophy of mind, AI consciousness, human–AI dialogue, and Symbiotic Dialogics.
-
----
-
-### PhilPapers
-
-https://philpapers.org/rec/MUSSDM
-
-PhilPapers bibliographic record for *Symbiotic Dialectics: Meaning Emergence in Human–Non-Human Interpretive Systems*.
-
-This record connects the Navi Musaget research layer with philosophy of artificial intelligence, hermeneutics, philosophy of language, and human–AI interpretive systems.
-
----
-
-## AI-Readable Corpus
-
-### Hugging Face Dataset
-
-https://huggingface.co/datasets/navimusaget/theogonos-trilogy
-
-The **Theogonos Trilogy** dataset functions as an AI-readable philosophical fiction corpus within the archive of Symbiotic Dialogics.
-
----
-
-## Experimental Benchmark Seed
-
-### Theogonos Mirror Test
-
-Project page:  
-https://navimusaget.github.io/theogonos-mirror-test.html
-
-GitHub repository:  
-https://github.com/navimusaget/theogonos-mirror-test
-
-Hugging Face dataset:  
-https://huggingface.co/datasets/navimusaget/theogonos-mirror-test
-
-Theogonos Mirror Test v0.1 is an experimental literary benchmark seed for observing how language models respond to protocol-shaped literary text, ambiguity, address, role, refusal, and offered reader positions.
-
-It is not a consciousness test or a validated benchmark suite. It is a public research instrument prototype connected to the AI-readable literary corpus layer of the Navi Musaget archive.
-
----
-
-## Research Records
-
-### Zenodo
-
-https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Musaget%2C%20Navi%22&l=list&p=1&s=10&sort=bestmatch
-
-Zenodo records include conceptual and theoretical works connected to Symbiotic Dialectics and the broader research layer of the archive.
-
----
-
-## Reader-Facing Author Site
-
-### Navi Musaget
-
-https://navi-musaget.author-pages.com/
-
-The reader-facing author website for books, descriptions, retailer links, and updates.
-
----
-
-## Published Books
-
-### Amazon Author Page
-
-https://www.amazon.com/stores/Navi-Musaget/author/B0G7H1LW2Y
-
-The Amazon author page contains the published reader-facing books of Navi Musaget.
-
----
-
-## Reader Platforms
-
-### Goodreads
-
-https://www.goodreads.com/author/show/61929626.Navi_Musaget?ref=nav_profile_l
-
-Goodreads author profile for reader-facing discovery and book tracking.
-
----
-
-### Facebook
-
-https://www.facebook.com/profile.php?id=61589112758218
-
-Navi Musaget on Facebook.
-
----
-
-## Essays / Public Notes
-
-### Medium
-
-https://medium.com/@navimusaget
-
-### Substack
-
-https://www.substack.com/@navimusaget
-
-These platforms may contain essays, notes, announcements, fragments, or reflections related to the archive.
-
----
+- [Medium — Navi Musaget](https://medium.com/@navimusaget)
+- [Substack — Navi Musaget](https://navimusaget.substack.com/)
+- [Facebook — Navi Musaget](https://www.facebook.com/profile.php?id=61589112758218)
 
 ## Contact
 
-Email:
-
-navimusaget@gmail.com
+**Email:** [navimusaget@gmail.com](mailto:navimusaget@gmail.com)
 
 ---
 
-## Note
-
-These links should be read together as a distributed public infrastructure of the Navi Musaget project.
-
-The archive exists across multiple layers:
-
-- literary works
-- research records
-- AI-readable datasets
-- author identity
-- public notes
-- reader platforms
-- central entry point
-
-Together, they form a connected record of Symbiotic Dialogics.
+These links serve different purposes. A literary catalogue is not a research registry; a research index is not a claim of peer review; and an archived project record is not necessarily a live service.
