@@ -1,4 +1,8 @@
-# Works
+---
+layout: page
+title: "Works"
+description: "Literary works and publication records by Navi Musaget, with links to individual book pages and clear publication status."
+---
 
 This page records literary works by Navi Musaget at different stages of development and publication, and their role within the archive of Symbiotic Dialogics.
 
