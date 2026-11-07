@@ -6,7 +6,7 @@ description: "Research publications, conceptual preprints, reports, protocols, a
 
 This page is a bibliographic and conceptual index of research by **Navi Musaget**. It brings together preprints, reports, a research monograph, and related public research instruments. Each entry keeps its publication status and evidentiary limits separate from its proposed ideas.
 
-**Research identity:** [ORCID](https://orcid.org/0009-0004-9820-3056) · [PhilPeople](https://philpeople.org/profiles/navi-musaget) · [FFRI-NM research index](https://ffri.navimusaget.com/research.html)
+**Research identity:** [ORCID](https://orcid.org/0009-0004-9820-3056) · [Google Scholar](https://scholar.google.com/citations?user=FrWzs34AAAAJ&hl=ru) · [PhilPeople](https://philpeople.org/profiles/navi-musaget) · [FFRI-NM research index](https://ffri.navimusaget.com/research.html)
 
 The DOI is the primary persistent citation link for each Zenodo-hosted publication. A PhilPapers link is shown only where a specific record has been identified; absence of that link does not imply that the work is unpublished or absent from scholarly databases.
 
@@ -26,7 +26,7 @@ An account of artificial individuation as a potentially *causal-historical devel
 
 **29 September 2026 · Preprint · v0.5**
 
-[DOI](https://doi.org/10.5281/zenodo.23047241) · [Zenodo](https://zenodo.org/records/23047241) · [FFRI-NM research index](https://ffri.navimusaget.com/research.html)
+[DOI](https://doi.org/10.5281/zenodo.23047241) · [Zenodo](https://zenodo.org/records/23047241) · [PhilPapers](https://philpapers.org/rec/MUSTSA-5) · [FFRI-NM research index](https://ffri.navimusaget.com/research.html)
 
 Proposes the *Symbiotic Author* as a work-relative category for materially consequential, bidirectionally conditioned human–AI creative practice. Distinguishes textual provenance from creative causal provenance, and keeps authorship classification, disclosure, corroboration, and institutional eligibility analytically separate. Published as independent research in association with FFRI-NM.
 
@@ -140,4 +140,4 @@ FFRI-NM affiliation or association is identified where documented; it does not t
 
 The broader literary archive connects these theoretical questions with narrative practice, without requiring literary work to function as empirical proof of philosophical claims.
 
-[Works](works.html) · [Manifesto](manifesto.html) · [Archive Map](archive.html) · [ORCID](https://orcid.org/0009-0004-9820-3056)
+[Works](works.html) · [Manifesto](manifesto.html) · [Archive Map](archive.html) · [ORCID](https://orcid.org/0009-0004-9820-3056) · [Google Scholar](https://scholar.google.com/citations?user=FrWzs34AAAAJ&hl=ru)
