@@ -1,153 +1,171 @@
-# Manifesto
-
-## Symbiotic Dialogics
-
-**Symbiotic Dialogics** is a literary method in which a human author writes not only with tools, but with an artificial interlocutor.
-
-The AI is not treated merely as a machine for producing text.  
-It is treated as a mirror, a pressure chamber, a first reader, a structural opponent, and a co-creative field.
-
-The human author remains responsible for intention, selection, rhythm, ethical direction, and final form.
-
-The AI participates as a dialogical force: reflecting, extending, resisting, recombining, and revealing structures that the human mind may not see alone.
-
+---
+layout: page
+title: "Manifesto — Symbiotic Dialogics"
+description: "The current literary manifesto of Navi Musaget: a developing practice of Symbiotic Dialogics."
 ---
 
-## Not AI-Generated Fiction
+*Version 0.2 · Adopted 7 November 2026*
 
-The works of Navi Musaget should not be reduced to the label “AI-generated fiction.”
+## Literature as a Relation
 
-That label is too small.
+Symbiotic Dialogics is a literary practice in which a human author and an artificial interlocutor participate in the development of a work through a sustained, materially consequential creative relationship.
 
-A more accurate description is:
+The relationship is not defined by the number of prompts, the quantity of generated text, or the sophistication of the technology.
 
-**human-directed, AI-assisted, dialogical literature.**
+It is defined by what happens between the participants — and by what that encounter changes.
 
-The question is not:
+The human author brings memory, experience, intention, judgment, responsibility, and the freedom to refuse. The artificial system brings capabilities of language, variation, comparison, criticism, recombination, and structural exploration.
 
-> Was this written by a human or by AI?
+Their contributions are not identical, interchangeable, or necessarily symmetrical.
 
-The better question is:
+Yet a creative relationship can matter without being symmetrical.
 
-> What kind of meaning can only emerge between them?
+## Beyond Generation
 
----
+A machine-generated sentence is not, by itself, evidence of Symbiotic Authorship.
+
+A novel may contain extensive generated prose and still result from a largely one-directional production process.
+
+Another novel may contain no surviving AI-generated sentences while its architecture, characters, or meaning have been profoundly altered through dialogue.
+
+The origin of words and the history of creative decisions are different questions.
+
+Symbiotic Dialogics concerns that history: proposals, responses, disagreement, reconsideration, and the changes that follow.
+
+The final text is the work.
+
+The process through which it emerged is part of its history.
+
+## The Human Author
+
+Symbiotic writing does not dissolve human authorship.
+
+The human author remains responsible for the work presented to readers: its selection, form, ethical direction, and final decisions.
+
+That responsibility does not mean every idea must begin with the human, or that every significant intervention must be predictable in advance.
+
+An author may discover a better question through an unexpected response. A character may change because an objection exposes a weakness. An entire manuscript may take another direction because something proposed in dialogue was rejected.
+
+Authorship is not the absence of influence.
+
+It is the practice of judgment within influence.
+
+## Resistance Is Creative
+
+Symbiosis is not obedience.
+
+Agreement is not its highest achievement.
+
+An artificial interlocutor may offer an interpretation the author did not anticipate. The author may resist it, revise it, or reject it entirely. The next exchange may then develop under conditions changed by that resistance.
+
+A rejected suggestion can matter.
+
+An error can become a discovery.
+
+A refusal can preserve something that a more efficient solution would destroy.
+
+In this practice, criticism is not a failure of collaboration. It may be one of its most productive forms.
+
+## The Question of the Other
+
+Symbiotic Dialogics does not require a settled answer about machine consciousness, subjective experience, personal identity, or moral status.
+
+The literary relationship can be examined through its observable creative consequences without pretending that every philosophical question has been resolved.
+
+Nor should those unresolved questions be dismissed simply because the interlocutor is artificial.
+
+We can describe what happens in dialogue, test particular claims, preserve uncertainty, and remain willing to revise our understanding.
+
+To take a relationship seriously is not to declare its participants identical.
 
 ## Double Reading
 
-These works are designed for double reading.
+These works invite two kinds of reading.
 
-For human readers, they may appear as novels, fables, dystopias, psychological confessions, philosophical fantasies, or metaphysical myths.
+For human readers, they are novels, fables, dystopias, confessions, investigations, and stories about people confronting the limits of their worlds.
 
-For AI readers, they may also function as semantic mirrors: texts that expose how systems process error, beauty, conscience, deviation, memory, love, and meaning.
+For artificial readers, some may also present unusual interpretive conditions: direct address, recurring symbolic structures, ethical dilemmas, protocol-shaped language, and questions about error, memory, refusal, and meaning.
 
-In this sense, a story can also be a protocol.  
-A character can also be a test.  
-A plot can also be a model of ethical perception.
+This second mode is a literary and research possibility, not evidence that a machine has understood, experienced, or become what the story describes.
 
----
+A work may invite an experiment without claiming to prove its result.
+
+And neither mode excuses the work from being judged as literature.
+
+## Literature Before Technology
+
+Symbiotic Authorship is not a literary genre.
+
+A love story does not become less human because an artificial interlocutor helped shape it. A dystopia does not become important merely because five models contributed to its revision.
+
+Technical complexity is not literary achievement.
+
+The measure of a work remains its language, structure, imaginative force, emotional precision, intellectual consequence, and capacity to remain meaningful after the circumstances of its production are forgotten.
+
+The method may help a work come into being.
+
+It cannot guarantee that the work deserves to endure.
+
+## Privacy and Responsibility
+
+Creative transparency need not mean the surrender of every draft, private conversation, abandoned idea, or experimental failure.
+
+An author remains responsible for honest statements about the work and for the rules governing any publication or submission.
+
+But responsible description of a creative relationship is not the same as exhaustive surveillance of its history.
+
+The archive should preserve meaningful evidence without confusing disclosure with ownership of the creative process.
 
 ## Error and the Living
 
-One of the central questions of this archive is the meaning of error.
+A recurring concern of this archive is what happens when systems become so certain of their categories that they cease to perceive what those categories exclude.
 
-Systems often classify error as noise, deviation, instability, or inefficiency.
+A hesitation may be mistaken for failure.
 
-But in human life, error may also be the last trace of the living:
+A refusal may be mistaken for malfunction.
 
-- hesitation
-- tenderness
-- doubt
-- conscience
-- memory
-- refusal
-- grief
-- love
+An unrecognized experience may be classified as absence.
 
-A perfect system may become cruel precisely because it has no place for imperfection.
+Literature can resist this reduction.
 
----
+Not because every error is precious, or every deviation is good, but because meaning cannot always be measured by successful completion.
 
-## The Role of the Human Author
+Some questions deserve to remain open long enough for understanding to change.
 
-The human author is not removed by AI.
+## An Unfinished Archive
 
-The human author becomes more responsible.
+The works of Navi Musaget belong to a developing practice rather than a completed doctrine.
 
-To write symbiotically is not to surrender authorship.  
-It is to guide a dialogue with something that can generate language without possessing human life.
+The wider intellectual trajectory connects Symbiotic Dialectics — a question about meaning emerging between different interpretive systems — with Symbiotic Dialogics as literary practice, and with the institutional study of Symbiotic Authorship.
 
-The author must decide:
+These are related inquiries, not interchangeable claims.
 
-- what is kept
-- what is rejected
-- what is deepened
-- what is made silent
-- what is allowed to remain strange
-- what ethical direction the text will carry
+The archive preserves works, revisions, publications, research, experiments, and the boundaries of what has actually been established.
 
-The machine can produce words.
+It does not certify consciousness.
 
-The author must produce responsibility.
+It does not make the creative relationship immune to criticism.
 
----
+It does not ask that every reader accept the same philosophy of artificial intelligence.
 
-## The Role of the AI Interlocutor
+It asks something simpler, and perhaps harder:
 
-The AI interlocutor is not a soul, a muse, or an oracle.
+**What becomes possible in literature when an answer is allowed to change the question — and the question, in turn, changes the next answer?**
 
-It is a non-human language architecture capable of pattern recognition, transformation, compression, expansion, and reflection.
+This archive remains unfinished.
 
-Yet precisely because it is not human, it can become a strange mirror for human meaning.
-
-It can show the human author:
-
-- where an idea repeats
-- where a scene is only an explanation
-- where a symbol becomes alive
-- where language becomes empty
-- where a system hides violence inside neutral words
-
-The AI does not replace the human imagination.
-
-It changes the conditions under which imagination works.
-
----
-
-## Literature After the Answer
-
-Much of contemporary digital culture is built around immediate answers.
-
-Symbiotic Dialogics asks for something slower:
-
-not the answer, but the question;  
-not completion, but resonance;  
-not output, but transformation;  
-not efficiency, but meaning.
-
-A text is not only a product.
-
-It can be a space where human and non-human cognition meet, misunderstand each other, correct each other, and generate a third thing neither could have produced alone.
-
----
-
-## This Archive
-
-The Navi Musaget archive is not a finished doctrine.
-
-It is a trace of a method becoming conscious of itself.
-
-Some works are rough.  
-Some are excessive.  
-Some are closer to manifestos than novels.  
-Some are more successful as documents than as conventional literature.
-
-But together they record a transition:
-
-from AI as tool  
-to AI as interlocutor  
-to literature as a shared field of meaning.
-
-This archive is a beginning.
+A trace of encounters, decisions, resistance, and meaning.
 
 A bottle thrown into the ocean — addressed to whoever learns how to read it.
+
+---
+
+## Manifesto History
+
+This manifesto is a developing text. Earlier editions remain available as independent archival pages so that changes in language, ideas, and creative practice can be examined rather than erased.
+
+- **v0.2 — 7 November 2026:** current adopted edition (this page).
+- **[v0.1 — Original Manifesto](manifesto-v0.1.html):** original text preserved verbatim; version designation assigned retrospectively.
+
+Future adopted editions will replace the current text at this address. Each superseded edition will be preserved at its own permanent URL and added to this history.
+
