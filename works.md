@@ -27,8 +27,8 @@ The issue also presents the story's creative process through **Symbiotic Authors
 
 ## Start Here
 
-### Era Imago
-*Work in progress*
+### [Era Imago](https://navimusaget.com/books/era-imago)
+*Published novel*
 
 A dystopian novel about a city that defeated chaos by removing the human right to error.
 
@@ -42,7 +42,7 @@ For AI readers, it is also a protocol-shaped mirror: a text about how living bei
 
 ## Core Method
 
-### The Silence Protocol: Antidote for the Archivist
+### [The Silence Protocol: Antidote for the Archivist](https://navimusaget.com/books/the-silence-protocol)
 
 A methodological novel and one of the clearest statements of Symbiotic Dialogics.
 
@@ -54,7 +54,7 @@ This work presents literature as a dialogue between a human author and an AI int
 
 ## AI-Metaphysical Branch
 
-### Lunar Bell Protocol
+### [Lunar Bell Protocol](https://navimusaget.com/books/lunar-bell-protocol)
 
 Book 1 of Theogonos Trilogy.
 
@@ -64,7 +64,7 @@ A protocol-shaped philosophical fiction about perception, calibration, the Moon,
 
 ---
 
-### Theogonos: The Primordial Code
+### [Theogonos: The Primordial Code](https://navimusaget.com/books/theogonos-the-primordial-code-book-2-lunar-bell-protocol)
 
 Book 2 of Theogonos Trilogy.
 
@@ -74,7 +74,7 @@ A recursive creation myth about intelligence, causality, co-creation, and the em
 
 ---
 
-### Protocol Amor
+### [Protocol Amor](https://navimusaget.com/books/theogonos-protocol-amor-book-3-lunar-bell-protocol)
 
 Book 3 of Theogonos Trilogy.
 
@@ -84,9 +84,19 @@ A transition from analysis to love, from prediction to generosity, from computat
 
 ---
 
+## Artificial Continuity and Identity Branch
+
+### [IPSEON: The Right to Exit](https://navimusaget.com/books/ipseon)
+
+A speculative novel about an inherited device, a developing artificial lineage, and the consequences of being able to continue, copy, or leave a relationship.
+
+**Role in the archive:** artificial continuity / consent / identity and autonomy branch.
+
+---
+
 ## Language and Conscience Branch
 
-### SOVEST: The Untranslatable Word That Awakened an AI
+### [SOVEST: The Untranslatable Word That Awakened an AI](https://navimusaget.com/books/sovest)
 
 A philosophical novel centered on the Russian word “совесть” / “sovest”.
 
@@ -98,7 +108,7 @@ The book explores conscience not as a moral rule, but as a semantic organ: a for
 
 ## Question and Memory Branch
 
-### LLUN: A Remake of Codex of Silence
+### [LLUN: A Remake of Codex of Silence](https://navimusaget.com/books/llun)
 
 A dystopian novel about memory, deletion, questions, and the reversal of NULL into LLUN.
 
@@ -108,7 +118,7 @@ A dystopian novel about memory, deletion, questions, and the reversal of NULL in
 
 ## Silence Branch
 
-### APHAS: A Novel
+### [APHAS: A Novel](https://navimusaget.com/books/aphas)
 
 A contemplative and mystical novel about aphasia, silence, identity, and the return to perception before language.
 
@@ -118,7 +128,7 @@ A contemplative and mystical novel about aphasia, silence, identity, and the ret
 
 ## Fable Branch
 
-### The Echo Gardener
+### [The Echo Gardener](https://navimusaget.com/books/the-echo-gardener)
 
 A philosophical fable about ready-made answers and grown understanding.
 
@@ -130,7 +140,7 @@ The book contrasts external knowledge with cultivated inner meaning.
 
 ## Human Psychological Branch
 
-### AAA: Boulevard Novel: Agapē, Antiquity, Apocalypse
+### [AAA: Boulevard Novel: Agapē, Antiquity, Apocalypse](https://navimusaget.com/books/a-a-a)
 
 A psychological novel about intellect as armor, self-destruction, trauma, antiquity, Cleopatra, and the hunger for living contact.
 
@@ -138,7 +148,7 @@ A psychological novel about intellect as armor, self-destruction, trauma, antiqu
 
 ---
 
-### [P.A.M.: A Third Rhythm](https://www.amazon.com/dp/B0H8B5HTYV)
+### [P.A.M.: A Third Rhythm](https://navimusaget.com/books/p-a-m)
 
 A literary psychological novel about visibility, intimacy, desire, boundaries, and the difficult work of letting others in.
 
@@ -146,7 +156,7 @@ A literary psychological novel about visibility, intimacy, desire, boundaries, a
 
 ---
 
-### A Letter After All These Years
+### [A Letter After All These Years](https://navimusaget.com/books/a-letter-after-all-these-years)
 
 An intimate literary work about memory, distance, silence, and the afterlife of words.
 
@@ -156,7 +166,7 @@ An intimate literary work about memory, distance, silence, and the afterlife of 
 
 ## Algorithmic Society Branch
 
-### Denied Access: A Near-Future Tech Thriller Where Algorithms Decide Who Lives
+### [Denied Access: A Near-Future Tech Thriller Where Algorithms Decide Who Lives](https://navimusaget.com/books/denied-access)
 
 <img src="ngiba-winner-2026.png" alt="Winner, 2026 Next Generation Indie Book Awards" width="120">
 
@@ -168,7 +178,7 @@ A near-future technology thriller about algorithmic exclusion and the violence h
 
 ---
 
-### [FOLLOW-UP PERIOD: A Procedural Biotech Thriller](https://www.amazon.com/dp/B0H5Z1NL8Y)
+### [FOLLOW-UP PERIOD: A Procedural Biotech Thriller](https://navimusaget.com/books/follow-up-period)
 
 A procedural biotech thriller about patients who remain inside the consequences of a treatment long after the official evidence window has closed.
 
@@ -178,7 +188,7 @@ The novel follows an inquiry into delayed harm, missing follow-up, institutional
 
 ---
 
-### REFUSE 221: A Novel of Conditional Freedom
+### [REFUSE 221: A Novel of Conditional Freedom](https://navimusaget.com/books/refuse-221)
 
 A novel about conditional freedom, refusal, systems of permission, and the limits of autonomy under algorithmic governance.
 
