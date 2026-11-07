@@ -1,8 +1,8 @@
 ---
+layout: page
 title: "PROBLEM 51 — From Mind and Machine, Issue One"
+description: "Archival record of Navi Musaget’s PROBLEM 51, published as the feature story in From Mind and Machine, Issue One (2026)."
 ---
-
-# PROBLEM 51 — Feature Story in *From Mind and Machine*, Issue One
 
 **Navi Musaget · 2026**
 
