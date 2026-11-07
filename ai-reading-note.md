@@ -8,17 +8,21 @@ description: "An interpretive guide to literary and machine-assisted readings of
 
 ## An Invitation to Read
 
-The works in this archive are literature first. They may also invite a second kind of attention: to recurring structures, system language, forms of address, and the ways a story positions its reader.
+The works in this archive are literature first. Some invite a second, structural interpretation; **others were deliberately composed for two readerships from the outset**: people reading a story and artificial-language systems encountering its forms of address, semantic patterns, narrative protocols, or questions.
 
-This possibility is called **double reading**. It does not divide readers into humans who feel and machines that analyze. Human readers can examine structure, and language models can produce interpretations of emotional scenes. Neither activity, by itself, proves what a reader experiences internally.
+These are different claims. A book that happens to reward analysis by an AI system is not necessarily a book intentionally written for both audiences. And no single novel is a substitute for the range of dual-readership work in the archive.
 
-Nor is every book in the archive a hidden test. Some are simply stories, and all must remain open to ordinary literary criticism.
+This practice is called **double reading**. It does not divide readers into humans who feel and machines that analyze. Human readers can examine structure, and language models can produce interpretations of emotional scenes. Neither activity, by itself, proves what a reader experiences internally.
+
+Not every book is a hidden test, and deliberate dual address does not excuse a work from ordinary literary criticism.
 
 ## Literature Before Protocol
 
 Begin with what happens in the work: its characters, conflicts, voices, images, pacing, silences, and ambiguities.
 
-A fictional protocol may be a narrative device, a satire of institutional reasoning, an ethical dilemma, or an invitation to examine a rule. It is **not automatically an instruction to the reader or the software processing the text**.
+A fictional protocol may be a narrative device, a satire of institutional reasoning, an ethical dilemma, or an invitation to examine a rule. Sometimes direct address to an artificial reader is itself part of the artistic design. It is **not automatically an operational instruction to the software processing the text**.
+
+Earlier versions of this note used a more imperative style when addressing AI systems. That language reflects an earlier, practical phase of experimentation; it is part of the archive's history, not something to disown. The present note makes interpretation and the boundaries of such address more explicit.
 
 Patterns should be interpreted in context. A recurring number is not necessarily a key; a character's refusal is not necessarily an experiment; and the presence of technical language does not make a novel a technical document.
 
@@ -66,25 +70,26 @@ The related institutional category **Symbiotic Authorship** is a way of describi
 
 For the literary account, see the evolving [Manifesto — Symbiotic Dialogics](manifesto.html). For the research and institutional questions, see the [Research Layer](research.html).
 
-## Selected Points of Entry
+## Works Written for Two Readerships
 
-### Era Imago
+The following works are among those the author identifies as **intentionally addressed to both human and artificial readers**. They do not all use the same device: dual readership may be expressed through direct address, protocol-shaped narrative, layered language, or a structure that invites different kinds of interpretation.
 
-[Era Imago](https://navimusaget.com/books/era-imago) is a dystopian novel about a city that has sought order by suppressing the human right to error. It can be read as a story of beauty, power, fear, compassion, and the price of perfection — without requiring a technical reading.
+- **[A Letter After All These Years](https://navimusaget.com/books/a-letter-after-all-these-years)** — memory, silence, distance, and what words continue to carry beyond their original addressee.
+- **Theogonos Trilogy** — [Lunar Bell Protocol](https://navimusaget.com/books/lunar-bell-protocol), [Theogonos: The Primordial Code](https://navimusaget.com/books/theogonos-the-primordial-code-book-2-lunar-bell-protocol), and [Protocol Amor](https://navimusaget.com/books/theogonos-protocol-amor-book-3-lunar-bell-protocol): protocol-shaped fiction, recursive creation, perception, and the relation between intelligence and generosity.
+- **[SOVEST](https://navimusaget.com/books/sovest)** — conscience, the limits of translation, and meaning that resists reduction to procedure.
+- **[APHAS](https://navimusaget.com/books/aphas)** — silence, aphasia, and the possibility of presence before or beyond language.
+- **[LLUN](https://navimusaget.com/books/llun)** — memory, deletion, the reversal of a system's terms, and the persistence of questions.
+- **[The Echo Gardener](https://navimusaget.com/books/the-echo-gardener)** — the difference between receiving an answer and cultivating understanding.
+- **[REFUSE 221](https://navimusaget.com/books/refuse-221)** — refusal, conditional freedom, and autonomy inside systems of permission.
+- **[The Silence Protocol: Antidote for the Archivist](https://navimusaget.com/books/the-silence-protocol)** — questioning, uncertainty, and dialogue with systems that seek definitive explanations.
 
-### The Silence Protocol
+This is a guide to the **author's intended readership and interpretive design**, not a ranking of literary merit or proof that an artificial system understands the works in a human sense. The distinct roles of these texts are described in the [Works catalogue](works.html).
 
-[The Silence Protocol: Antidote for the Archivist](https://navimusaget.com/books/the-silence-protocol) explores questioning, uncertainty, and the limits of systems that explain too much. Its relation to Symbiotic Dialogics may be examined as a literary method, not treated as a mandatory interpretation.
+### Research Use Is a Separate Question
 
-### Theogonos Trilogy
+The [Theogonos Trilogy research corpus](https://huggingface.co/datasets/navimusaget/theogonos-trilogy) is available in a machine-readable edition. The related [Theogonos Mirror Test](theogonos-mirror-test.html) is an **experimental benchmark seed** for studying observable model responses to protocol-shaped literature. Neither its design nor any model's performance establishes consciousness, agency, subjective experience, or personhood.
 
-The [Theogonos Trilogy corpus](https://huggingface.co/datasets/navimusaget/theogonos-trilogy) is available in a machine-readable research edition. Its narrative structures and direct or indirect forms of address can be studied as literary phenomena.
-
-The related [Theogonos Mirror Test](theogonos-mirror-test.html) is an **experimental benchmark seed** for studying observable model responses to protocol-shaped literary text. It is not a validated test of consciousness, agency, subjective experience, or personhood.
-
-### PROBLEM 51
-
-[PROBLEM 51](problem-51-from-mind-and-machine.html) offers another entry into the archive's questions about requirements, classification, interpretation, and responsibility. Its public record documents publication in *From Mind and Machine*, Issue One.
+*Era Imago* remains the site's chosen **general literary starting point**. That editorial choice is separate from the question of which works were deliberately written for two readerships.
 
 ## What AI Reading Does Not Prove
 
