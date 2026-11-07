@@ -12,42 +12,23 @@ They are documents of an emerging method: **Symbiotic Dialogics** — writing as
 
 ---
 
-## Publication News
+## News & Updates
 
-**PROBLEM 51** by **Navi Musaget** appears as the **feature story** in Issue One of *From Mind and Machine*, an independent magazine exploring creative work at the boundary between human authorship and artificial intelligence.
+A chronological record of completed manuscripts, external publications, awards, and developments in this archive.
 
-The issue also presents the story's creative process through **Symbiotic Authorship** and **Symbiotic Dialectics**.
-
-[Publication record](problem-51-from-mind-and-machine.html) · [Read Issue One](https://ashadowfromthetomb.com/from-mind-and-machine/issue-1/magazine/)
-
----
-
-## Award News
-
-<img src="ngiba-winner-2026.png" alt="Winner, 2026 Next Generation Indie Book Awards" width="110">
-
-**DENIED ACCESS** by **Navi Musaget** was named **Winner, Science Fiction (On Earth), 2026 Next Generation Indie Book Awards**.
-
-Official winners page:  
-https://indiebookawards.com/winners.php
-
-This recognition anchors the algorithmic society branch of the Navi Musaget archive: fiction about access, exclusion, automated decision systems, and the hidden violence of procedural care.
-
-Read more: [Works](works.md)
+[News & Updates](news.html)
 
 ---
 
 ## Navigation
 
 - [Works](works.html)
-- [Manifesto](manifesto.html)
-- [AI Reading Note](ai-reading-note.html)
-- [Datasets](datasets.html)
 - [Research](research.html)
+- [Manifesto](manifesto.html)
+- [News & Updates](news.html)
 - [Archive Map](archive.html)
+- [iipseon](iipseon-continuity.html)
 - [Author and Profiles](profiles.html)
-- [Personal Continuity Protocol](personal-continuity-protocol.html)
-- [iipseon Continuity Node](iipseon-continuity.html)
 
 ---
 
