@@ -19,6 +19,14 @@ They are presented as branches of a developing literary method.
 
 ## External Publication
 
+### [The Shop of Useless Wishes — StoryWeaver](the-shop-of-useless-wishes.html)
+
+*An illustrated fairy tale for children and little algorithms.* Published in English on **November 15, 2026**, on StoryWeaver Community (Level 3). Free to read and download under CC BY 4.0.
+
+[Publication record](the-shop-of-useless-wishes.html) · [Read the story](https://storyweaver.org.in/en/stories/709034-the-shop-of-useless-wishes)
+
+---
+
 ### [PROBLEM 51 — *From Mind and Machine*, Issue One](problem-51-from-mind-and-machine.html)
 
 *PROBLEM 51* was published as the **feature story** in Issue One of *From Mind and Machine*, an independent magazine focused on creative work at the boundary of human authorship and artificial intelligence.
