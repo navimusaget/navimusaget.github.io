@@ -9,6 +9,12 @@ This page records verifiable developments in the Navi Musaget literary and resea
 
 ## 2026
 
+### November 15, 2026 — Illustrated fairy tale published
+
+**THE SHOP OF USELESS WISHES** by Navi Musaget was published in English on Pratham Books' StoryWeaver platform. The 20-page illustrated fairy tale is freely available to read and download under the CC BY 4.0 license.
+
+[Publication record](the-shop-of-useless-wishes.html) · [Read on StoryWeaver](https://storyweaver.org.in/en/stories/709034-the-shop-of-useless-wishes)
+
 ### November 2026 — Completed manuscript
 
 **WHAT IF I'M A GOAT?** — a completed English-language collection of four works of speculative fiction: *BASIC PACKAGE*, *THE GOAT, NAVIN, AND AI*, *HOW I MEASURED MEANING IN IPS*, and *PROBLEM 51*. Publication of the collection is under consideration.
